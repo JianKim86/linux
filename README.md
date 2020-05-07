@@ -12,4 +12,11 @@ study linux
 - #### PART 01 : 리눅스의 이해
 
   - Chapter01 : 리눅스의 이해
+  
   - Chapter02 : 리눅스 설치
+  
+    
+  
+- #### PART 02 : 리눅스 명령어
+
+  - Chapter01 : 디렉터리 및 파일 관리
